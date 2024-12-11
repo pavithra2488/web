@@ -1,6 +1,6 @@
  .u-section-1 {
   background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(41, 46, 51, 0.3), rgba(41, 46, 51, 0.3)), url('/images/photo-1695281944096-f3ae6db93850.jpeg');
+  background-image: linear-gradient(to bottom, rgba(41, 46, 51, 0.3), rgba(41, 46, 51, 0.3)), url('images/photo-1695281944096-f3ae6db93850.jpeg');
   background-size: cover, cover;
 }
 
@@ -99,7 +99,7 @@
   min-height: 628px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("/images/photo-1641884179834-fc557eeff31b.jpeg");
+  background-image: url("images/photo-1641884179834-fc557eeff31b.jpeg");
   background-size: cover;
 }
 
@@ -534,7 +534,7 @@
   min-height: 628px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("/images/photo-1616695618184-0115aa2be192.jpeg");
+  background-image: url("images/photo-1616695618184-0115aa2be192.jpeg");
   background-size: cover;
 }
 
@@ -1381,7 +1381,7 @@
 } .u-section-10 {
   background-position: 50% 50%;
   background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1570582100323-852f5b144c37.jpeg');
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1570582100323-852f5b144c37.jpeg');
   background-size: cover, cover;
 }
 
@@ -1392,7 +1392,7 @@
 .u-section-10 .u-image-1 {
   width: 83px;
   height: 83px;
-  background-image: url("/images/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg");
+  background-image: url("images/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg");
   background-position: 50% 50%;
   margin: 60px auto 0;
 }
@@ -1584,7 +1584,7 @@
     font-size: 1.5rem;
   }
 } .u-section-12 {
-  background-image: url("/images/photo-1695281944096-f3ae6db93850.jpeg");
+  background-image: url("images/photo-1695281944096-f3ae6db93850.jpeg");
 }
 
 .u-section-12 .u-sheet-1 {

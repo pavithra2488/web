@@ -291,7 +291,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 409px;
-  background-image: url("/images/photo-1528492203317-873be2c040dd.jpeg");
+  background-image: url("images/photo-1528492203317-873be2c040dd.jpeg");
   background-position: 50% 50%;
 }
 
@@ -392,7 +392,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 300px;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1550141626-d789f0f61a79.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1550141626-d789f0f61a79.jpeg');
   background-position: 50% 50%;
 }
 
@@ -402,7 +402,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 562px;
-  background-image: url("/images/photo-1529080574688-751ee92a4178.jpeg");
+  background-image: url("images/photo-1529080574688-751ee92a4178.jpeg");
   background-position: 50% 50%;
 }
 
@@ -2031,7 +2031,7 @@
 
 .u-section-11 .u-image-1 {
   min-height: 509px;
-  background-image: url("/images/photo-1572224104789-b380cffbd9d2.jpeg");
+  background-image: url("images/photo-1572224104789-b380cffbd9d2.jpeg");
   background-position: 50% 50%;
 }
 
@@ -2041,7 +2041,7 @@
 
 .u-section-11 .u-image-2 {
   min-height: 509px;
-  background-image: url("/images/photo-1565477728513-78b1e10e69a8.jpeg");
+  background-image: url("images/photo-1565477728513-78b1e10e69a8.jpeg");
   background-position: 50% 50%;
 }
 
@@ -2067,7 +2067,7 @@
 
 .u-section-11 .u-image-3 {
   min-height: 255px;
-  background-image: url("/images/photo-1505976788676-caa964a06736.jpeg");
+  background-image: url("images/photo-1505976788676-caa964a06736.jpeg");
   background-position: 50% 50%;
 }
 
@@ -2465,7 +2465,7 @@
     grid-auto-columns: 100%;
   }
 } .u-section-14 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1528492203317-873be2c040dd.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1528492203317-873be2c040dd.jpeg');
   background-position: 50% 50%;
 }
 

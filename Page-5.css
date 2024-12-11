@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/photo-1646667061864-55815a43fb71.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/photo-1646667061864-55815a43fb71.jpeg');
 }
 
 .u-section-1 .u-sheet-1 {
@@ -224,7 +224,7 @@
 .u-section-3 .u-image-1 {
   width: 244px;
   height: 244px;
-  background-image: url("/images/photo-1656259531194-11a946c58a04.jpeg");
+  background-image: url("images/photo-1656259531194-11a946c58a04.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -400px;
   --animation-custom_in-translate_y: 0px;
@@ -270,7 +270,7 @@
 .u-section-3 .u-image-2 {
   width: 244px;
   height: 244px;
-  background-image: url("/images/photo-1647452375084-3ad0db6c9331.jpeg");
+  background-image: url("images/photo-1647452375084-3ad0db6c9331.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -400px;
   --animation-custom_in-translate_y: 0px;
@@ -342,7 +342,7 @@
 .u-section-3 .u-image-3 {
   width: 244px;
   height: 244px;
-  background-image: url("/images/photo-1571130961570-2910bbe4fa64.jpeg");
+  background-image: url("images/photo-1571130961570-2910bbe4fa64.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -388,7 +388,7 @@
 .u-section-3 .u-image-4 {
   width: 244px;
   height: 244px;
-  background-image: url("/images/photo-1648112569428-53729c7be291.jpeg");
+  background-image: url("images/photo-1648112569428-53729c7be291.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -778,7 +778,7 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1477120206578-46b3ca98a4e2.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1477120206578-46b3ca98a4e2.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -811,7 +811,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1648216771482-2f9b9c3d57ee.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1648216771482-2f9b9c3d57ee.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -844,7 +844,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1645500178047-873ba6551adf.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1645500178047-873ba6551adf.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -877,7 +877,7 @@
 }
 
 .u-section-4 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1588082255003-1a93643ecf59.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1588082255003-1a93643ecf59.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -910,7 +910,7 @@
 }
 
 .u-section-4 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1648147870253-c45f6f430528.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1648147870253-c45f6f430528.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -943,7 +943,7 @@
 }
 
 .u-section-4 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1646678187329-7544e633ff35.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1646678187329-7544e633ff35.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -976,7 +976,7 @@
 }
 
 .u-section-4 .u-image-7 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1646217295335-aa9f2a32caba.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1646217295335-aa9f2a32caba.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1009,7 +1009,7 @@
 }
 
 .u-section-4 .u-image-8 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1648139018726-8b7530ee80cb.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1648139018726-8b7530ee80cb.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1042,7 +1042,7 @@
 }
 
 .u-section-4 .u-image-9 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/photo-1564180251484-5a1e1a9a59de.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/photo-1564180251484-5a1e1a9a59de.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1253,7 +1253,7 @@
 .u-section-5 .u-image-1 {
   min-height: 635px;
   pointer-events: auto;
-  background-image: url("/images/photo-1653463174226-76848e041450.jpeg");
+  background-image: url("images/photo-1653463174226-76848e041450.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
@@ -1707,7 +1707,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 569px;
-  background-image: url("/images/photo-1648356349646-56f02eabc382.jpeg");
+  background-image: url("images/photo-1648356349646-56f02eabc382.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1937,7 +1937,7 @@
   top: 195px;
   right: 25px;
 } .u-section-9 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/photo-1646667061864-55815a43fb71.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/photo-1646667061864-55815a43fb71.jpeg');
 }
 
 .u-section-9 .u-sheet-1 {
@@ -2216,7 +2216,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/happy-man-with-long-thick-ginger-beard-has-friendly-smile_273609-16616.jpg");
+  background-image: url("images/happy-man-with-long-thick-ginger-beard-has-friendly-smile_273609-16616.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2252,7 +2252,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/woman4.jpg");
+  background-image: url("images/woman4.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2290,7 +2290,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/woman7.jpg");
+  background-image: url("images/woman7.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2328,7 +2328,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187-139.jpg");
+  background-image: url("images/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187-139.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2368,7 +2368,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/5man.jpg");
+  background-image: url("images/5man.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2406,7 +2406,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 154px;
-  background-image: url("/images/woman9.jpg");
+  background-image: url("images/woman9.jpg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -2491,7 +2491,7 @@
     padding-right: 10px;
   }
 } .u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1656259531194-11a946c58a04.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1656259531194-11a946c58a04.jpeg');
 }
 
 .u-section-11 .u-sheet-1 {
@@ -2730,7 +2730,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("/images/photo-1477120206578-46b3ca98a4e2.jpeg");
+  background-image: url("images/photo-1477120206578-46b3ca98a4e2.jpeg");
   background-position: 50% 50%;
 }
 

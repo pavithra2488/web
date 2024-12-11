@@ -8,7 +8,7 @@
   margin-top: 0;
   margin-bottom: 0;
   height: auto;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/images/photo-1600019246742-3b66977db044.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/photo-1600019246742-3b66977db044.jpeg');
   background-position: 50% 50%;
 }
 
@@ -632,7 +632,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1586751423846-9c3cdd03f6c3.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1586751423846-9c3cdd03f6c3.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -674,7 +674,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1580892660927-ddc173443462.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1580892660927-ddc173443462.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -717,7 +717,7 @@
 }
 
 .u-section-3 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1591102075673-e9a0833af03c.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1591102075673-e9a0833af03c.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -761,7 +761,7 @@
 }
 
 .u-section-3 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1598316899971-eb5ae580f82f.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1598316899971-eb5ae580f82f.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -804,7 +804,7 @@
 }
 
 .u-section-3 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1582394092094-560005373cc6.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1582394092094-560005373cc6.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -847,7 +847,7 @@
 }
 
 .u-section-3 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/photo-1525629179084-f7a7c04f50f1.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('images/photo-1525629179084-f7a7c04f50f1.jpeg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -992,7 +992,7 @@
     padding-right: 20px;
   }
 } .u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1590668403567-0296981394cd.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1590668403567-0296981394cd.jpeg');
 }
 
 .u-section-4 .u-sheet-1 {
@@ -1090,7 +1090,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 594px;
-  background-image: url("/images/photo-1591019403373-403efbb9773b.jpeg");
+  background-image: url("images/photo-1591019403373-403efbb9773b.jpeg");
   --radius: 50px;
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
@@ -1640,7 +1640,7 @@
     margin-top: -202px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1600019248149-cccdc555195e.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1600019248149-cccdc555195e.jpeg');
 }
 
 .u-section-8 .u-sheet-1 {
